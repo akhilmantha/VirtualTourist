@@ -37,7 +37,7 @@ extension FlickrApi {
     // MARK: Flickr Parameter Values
     struct UrlParameterValues {
         static let SearchMethod = "flickr.photos.search"
-        static let ApiKey = "8f8e21024a3687814aa3072fe5b9e5fd"
+        static let ApiKey = "060cdbb87390da240c6664e795a82b95"
         static let ResponseFormat = "json"
         static let DisableJSONCallback = "1" /* 1 means "yes" */
         static let MediumURL = "url_m"
