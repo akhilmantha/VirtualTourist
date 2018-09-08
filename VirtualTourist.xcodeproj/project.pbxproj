@@ -70,6 +70,7 @@
 		6AE5C58121438103004D14B8 /* VirtualTourist */ = {
 			isa = PBXGroup;
 			children = (
+				6AE5C5A721438988004D14B8 /* View Controllers */,
 				6AE5C5942143811B004D14B8 /* Model */,
 				6AE5C58221438104004D14B8 /* AppDelegate.swift */,
 				6AE5C58421438104004D14B8 /* ViewController.swift */,
@@ -94,6 +95,13 @@
 				6AE5C5A42143882B004D14B8 /* VirtualTouristModel.xcdatamodeld */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		6AE5C5A721438988004D14B8 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "View Controllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
