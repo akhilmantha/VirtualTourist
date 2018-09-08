@@ -7,3 +7,9 @@
 //
 
 import Foundation
+import MapKit
+
+class PinAnnotation: MKPointAnnotation {
+    var associatedPin:Pin?
+}
+
