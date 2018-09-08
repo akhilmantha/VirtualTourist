@@ -17,6 +17,8 @@
 		6AE5C59A21438192004D14B8 /* Pin+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C59921438192004D14B8 /* Pin+CoreDataClass.swift */; };
 		6AE5C59D214381CF004D14B8 /* Pin+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C59C214381CF004D14B8 /* Pin+CoreDataProperties.swift */; };
 		6AE5C59F21438464004D14B8 /* PinAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C59E21438464004D14B8 /* PinAnnotation.swift */; };
+		6AE5C5A1214384E4004D14B8 /* FlickrApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C5A0214384E4004D14B8 /* FlickrApi.swift */; };
+		6AE5C5A321438515004D14B8 /* FlickrAPIExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C5A221438515004D14B8 /* FlickrAPIExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		6AE5C59921438192004D14B8 /* Pin+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pin+CoreDataClass.swift"; sourceTree = "<group>"; };
 		6AE5C59C214381CF004D14B8 /* Pin+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pin+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		6AE5C59E21438464004D14B8 /* PinAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinAnnotation.swift; sourceTree = "<group>"; };
+		6AE5C5A0214384E4004D14B8 /* FlickrApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlickrApi.swift; sourceTree = "<group>"; };
+		6AE5C5A221438515004D14B8 /* FlickrAPIExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlickrAPIExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 				6AE5C59921438192004D14B8 /* Pin+CoreDataClass.swift */,
 				6AE5C59C214381CF004D14B8 /* Pin+CoreDataProperties.swift */,
 				6AE5C59E21438464004D14B8 /* PinAnnotation.swift */,
+				6AE5C5A0214384E4004D14B8 /* FlickrApi.swift */,
+				6AE5C5A221438515004D14B8 /* FlickrAPIExtension.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -159,12 +165,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AE5C59621438151004D14B8 /* Photo+CoreDataClass.swift in Sources */,
+				6AE5C5A321438515004D14B8 /* FlickrAPIExtension.swift in Sources */,
 				6AE5C59D214381CF004D14B8 /* Pin+CoreDataProperties.swift in Sources */,
 				6AE5C59A21438192004D14B8 /* Pin+CoreDataClass.swift in Sources */,
 				6AE5C58521438104004D14B8 /* ViewController.swift in Sources */,
 				6AE5C59821438174004D14B8 /* Photo+CoreDataProperties.swift in Sources */,
 				6AE5C58321438104004D14B8 /* AppDelegate.swift in Sources */,
 				6AE5C59F21438464004D14B8 /* PinAnnotation.swift in Sources */,
+				6AE5C5A1214384E4004D14B8 /* FlickrApi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
