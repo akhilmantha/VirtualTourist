@@ -16,6 +16,7 @@
 		6AE5C59821438174004D14B8 /* Photo+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C59721438174004D14B8 /* Photo+CoreDataProperties.swift */; };
 		6AE5C59A21438192004D14B8 /* Pin+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C59921438192004D14B8 /* Pin+CoreDataClass.swift */; };
 		6AE5C59D214381CF004D14B8 /* Pin+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C59C214381CF004D14B8 /* Pin+CoreDataProperties.swift */; };
+		6AE5C59F21438464004D14B8 /* PinAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C59E21438464004D14B8 /* PinAnnotation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		6AE5C59721438174004D14B8 /* Photo+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Photo+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		6AE5C59921438192004D14B8 /* Pin+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pin+CoreDataClass.swift"; sourceTree = "<group>"; };
 		6AE5C59C214381CF004D14B8 /* Pin+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pin+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		6AE5C59E21438464004D14B8 /* PinAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinAnnotation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				6AE5C59721438174004D14B8 /* Photo+CoreDataProperties.swift */,
 				6AE5C59921438192004D14B8 /* Pin+CoreDataClass.swift */,
 				6AE5C59C214381CF004D14B8 /* Pin+CoreDataProperties.swift */,
+				6AE5C59E21438464004D14B8 /* PinAnnotation.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				6AE5C58521438104004D14B8 /* ViewController.swift in Sources */,
 				6AE5C59821438174004D14B8 /* Photo+CoreDataProperties.swift in Sources */,
 				6AE5C58321438104004D14B8 /* AppDelegate.swift in Sources */,
+				6AE5C59F21438464004D14B8 /* PinAnnotation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
