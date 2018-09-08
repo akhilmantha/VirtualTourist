@@ -24,6 +24,7 @@
 		6AE5C5AB21438B24004D14B8 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C5AA21438B24004D14B8 /* PhotoViewController.swift */; };
 		6AE5C5AD21438B96004D14B8 /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C5AC21438B96004D14B8 /* PhotoCollectionViewCell.swift */; };
 		6AE5C5AF21438BD9004D14B8 /* CoreDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C5AE21438BD9004D14B8 /* CoreDataViewController.swift */; };
+		6AE5C5B121438DAA004D14B8 /* GCDBBlackBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE5C5B021438DAA004D14B8 /* GCDBBlackBox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		6AE5C5AA21438B24004D14B8 /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
 		6AE5C5AC21438B96004D14B8 /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
 		6AE5C5AE21438BD9004D14B8 /* CoreDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataViewController.swift; sourceTree = "<group>"; };
+		6AE5C5B021438DAA004D14B8 /* GCDBBlackBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GCDBBlackBox.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			children = (
 				6AE5C5A721438988004D14B8 /* View Controllers */,
 				6AE5C5942143811B004D14B8 /* Model */,
+				6AE5C5B021438DAA004D14B8 /* GCDBBlackBox.swift */,
 				6AE5C58221438104004D14B8 /* AppDelegate.swift */,
 				6AE5C58421438104004D14B8 /* ViewController.swift */,
 				6AE5C58621438104004D14B8 /* Main.storyboard */,
@@ -191,6 +194,7 @@
 				6AE5C5AD21438B96004D14B8 /* PhotoCollectionViewCell.swift in Sources */,
 				6AE5C59621438151004D14B8 /* Photo+CoreDataClass.swift in Sources */,
 				6AE5C5AF21438BD9004D14B8 /* CoreDataViewController.swift in Sources */,
+				6AE5C5B121438DAA004D14B8 /* GCDBBlackBox.swift in Sources */,
 				6AE5C5A321438515004D14B8 /* FlickrAPIExtension.swift in Sources */,
 				6AE5C59D214381CF004D14B8 /* Pin+CoreDataProperties.swift in Sources */,
 				6AE5C59A21438192004D14B8 /* Pin+CoreDataClass.swift in Sources */,
